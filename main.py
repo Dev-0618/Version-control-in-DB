@@ -7,20 +7,32 @@ from utils import clear_screen
 import os
 import time
 
-print(r"""
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-$   ____   _   ____    _   _   _____   ____    $
-$  / ___| (_) |  _ \  | | | | |___ /  |  _ \   $
-$  | |    | | | |_) | | |_| |   |_ \  | |_) |  $
-$  | |___ | | |  __/  |  _  |  ___) | |  _ <   $
-$  \____| |_| |_|  ___|_| |_| |____/  |_| \_\  $
-$  | | | |  _   _  | __ )                      $
-$  | |_| | | | | | |  _ \                      $ 
-$  |  _  | | |_| | | |_) |                     $
-$  |_| |_|  \__,_| |____/                      $
-$                                              $
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-      Developed by: Team CiPH3rHuB
+
+print(r"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$")
+time.sleep(0.5)
+print(r"$   ____   _   ____    _   _   _____   ____    $")
+time.sleep(0.5)
+print(r"$  / ___| (_) |  _ \  | | | | |___ /  |  _ \   $")
+time.sleep(0.5)
+print(r"$  | |    | | | |_) | | |_| |   |_ \  | |_) |  $")
+time.sleep(0.5)
+print(r"$  | |___ | | |  __/  |  _  |  ___) | |  _ <   $")
+time.sleep(0.5)
+print(r"$  \____| |_| |_|  ___|_| |_| |____/  |_| \_\  $")
+time.sleep(0.5)
+print(r"$  | | | |  _   _  | __ )                      $")
+time.sleep(0.5)
+print(r"$  | |_| | | | | | |  _ \                      $")
+time.sleep(0.5)
+print(r"$  |  _  | | |_| | | |_) |                     $")
+time.sleep(0.5)
+print(r"$  |_| |_|  \__,_| |____/                      $")
+time.sleep(0.5)
+print(r"$                                              $")
+time.sleep(0.5)
+print(r"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$")
+time.sleep(0.5)
+print(r"""      Developed by: Team CiPH3rHuB
       Team members: https://github.com/Dev-0618/
                     Jaslin Ebenezer I
                     https://github.com/bushrazmulla/
