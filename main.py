@@ -7,7 +7,7 @@ from utils import clear_screen
 import os
 import time
 
-print("""
+print(r"""
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 $   ____   _   ____    _   _   _____   ____    $
 $  / ___| (_) |  _ \  | | | | |___ /  |  _ \   $
